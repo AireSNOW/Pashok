@@ -1,0 +1,17 @@
+{
+  "name": "domashka2",
+  "version": "0.1.1",
+  "description": "hochy byt umnym",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Pasha's newbee",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "bulma": "^0.9.3"
+  }
+}
